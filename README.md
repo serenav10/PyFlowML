@@ -8,9 +8,10 @@ Thus far, PyFlowML has been employed in research to investigate how Visual Progr
 
 
 
-## Authors
+## Author
 
-Serena Versino - [Serena Versino](https://github.com/serenav10)
+[Serena Versino](https://github.com/serenav10)
 
 ## License
-For more information on the licensing of PyFlowML and the conditions under which it is provided, please see the [license](license/LICENSE.md) file in this repository.
+For more information on the licensing of PyFlowML and the conditions under which it is provided, please see the [license](LICENSE) file in this repository.
+

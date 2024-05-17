@@ -8,6 +8,9 @@ Thus far, PyFlowML has been employed in research to investigate how Visual Progr
 
 ## Installation
 
+PyFlowML, like the PyFlowOpenCv package, is an extension of PyFlow and requires PyFlow to be installed beforehand. While it's not mandatory, it's advisable to install PyFlowOpenCv as well. Instructions for installing both PyFlow and PyFlowOpenCv can be found here: 
+
+[Installation](https://pyflowopencv.readthedocs.io/en/latest/intro.html#installation)
 
 ## Demo
 

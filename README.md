@@ -14,6 +14,9 @@ PyFlowML, like the PyFlowOpenCv package, is an extension of PyFlow and requires 
 
 After PyFlow installed through pip or setup.py. Clone or download PyFlowML repository to a local folder: 
 
+```bash
+git clone https://github.com/serenav10/PyFlowML.git
+```
 
 ## Demo
 

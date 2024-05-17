@@ -4,7 +4,7 @@ PyFlowML introduces **machine learning (ML)** analysis through four types of nod
 
 Thus far, PyFlowML has been employed in research to investigate how Visual Programming Languages (VPLs) and no-code platforms can foster user participation in designing ML-based systems.
 
-![quickdemo](image/PyFlowML.gif)
+![quickdemo](gif/PyFlowML.gif)
 
 ## Installation
 

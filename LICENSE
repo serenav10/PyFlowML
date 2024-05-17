@@ -631,8 +631,8 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
+    <PyFlowML>
+    Copyright (C) <2024>  <Serena Versino>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -652,7 +652,7 @@ Also add information on how to contact you by electronic and paper mail.
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    <program>  Copyright (C) <year>  <name of author>
+    <PyFlowML>  Copyright (C) <2024>  <Serena Versino>
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
@@ -672,3 +672,18 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+Additional Clause: Non-Commercial Use
+
+This software is licensed under the terms of the GNU General Public License version 3 (GPL-3.0), 
+with the following additional restriction:
+
+You may not use, reproduce, or distribute this software, or any derivative works thereof, 
+for commercial purposes. "Commercial purposes" means any activity that is intended for or 
+directed toward commercial advantage or monetary compensation.
+
+For the avoidance of doubt, non-commercial purposes include but are not limited 
+to academic research, personal projects, and non-profit work. If you wish to use this 
+software for commercial purposes, you must obtain a separate commercial license 
+from the original author.
+

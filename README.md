@@ -4,6 +4,6 @@ Expanding upon the PyFlow framework, PyFlowML introduces **machine learning (ML)
 
 Thus far, PyFlowML has been employed in research to investigate how Visual Programming Languages (VPLs) and no-code platforms can foster user participation in designing ML-based systems.
 
-![quickdemo](https://raw.githubusercontent.com/serenav10/PyFlowML/main/image/PyFlowML.gif)
+![quickdemo](serenav10/PyFlowML/main/image/PyFlowML.gif)
 
 
